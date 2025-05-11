@@ -23,4 +23,4 @@ Power BI for data cleaning, analysis, and interactive visual dashboards
 
 3.Convert data types (dates, numbers)
 
-4. Rename columns for clarity
+ 4. Rename columns for clarity
