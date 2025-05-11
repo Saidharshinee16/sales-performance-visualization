@@ -13,3 +13,14 @@
 Power BI for data cleaning, analysis, and interactive visual dashboards
 
 📈 Dataset: Superstore Sales (public dataset)
+
+### 🧹  Clean the Data
+
+
+ 1. Remove duplicates
+
+2. Handle missing values 
+
+3.Convert data types (dates, numbers)
+
+4. Rename columns for clarity
