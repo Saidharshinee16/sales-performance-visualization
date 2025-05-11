@@ -2,10 +2,14 @@
 
 ### 🔍 Key insights uncovered:
 
-Top-performing and underperforming regions
+1. Top-performing and underperforming regions
 
-Monthly sales trends
+2. Monthly sales trends
 
-Profit contribution by category
+3. Profit contribution by category
 
-Quantity vs Profit comparison
+4. Quantity vs Profit comparison
+### 🛠️ Tools Used:
+Power BI for data cleaning, analysis, and interactive visual dashboards
+
+📈 Dataset: Superstore Sales (public dataset)
